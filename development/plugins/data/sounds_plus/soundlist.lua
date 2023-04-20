@@ -455,9 +455,9 @@ return {
 	["lever-flip02"] = "rbxassetid://2967472576", 
 	["lever-flip03"] = "rbxassetid://6003596258", 
 	["lever-flip04"] = "rbxassetid://2707021263", 
-	["lights-on02"] = "rbxassetid://156221488", 
+	["lights-on01"] = "rbxassetid://156221488", 
 	--["lights-on01"] = "rbxassetid://5608513766", -- NOT WORKING
-	["lights-on03"] = "rbxassetid://4786831738", 
+	["lights-on02"] = "rbxassetid://4786831738", 
 	["water-flow"] = "rbxassetid://4282172813", 
 	["fire-burning2"] = "rbxassetid://636297382", -- DUPLICATE
 	["lava"] = "rbxassetid://4187705845", 
