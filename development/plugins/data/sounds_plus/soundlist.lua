@@ -508,4 +508,9 @@ return {
 	["ui-star-travel"] = "rbxassetid://4612386679",
 	["ui-star"] = "rbxassetid://4612385808",
 	["shatter"] = "rbxassetid://8295266373",
+
+	-- other
+	["light-flicker-01"] = "rbxassetid://4398922591",
+	["light-flicker-02"] = "rbxassetid://4288784832",
+	["light-flicker-03"] = "rbxassetid://4398878054",
 }
